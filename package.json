@@ -1,5 +1,5 @@
 {
-  "name": "generator-webpack-library-starter",
+  "name": "generator-react-library-starter",
   "version": "0.1.0",
   "description": "A Yeoman generator to create React libraries.",
   "author": "Steven Ringland",
@@ -18,7 +18,7 @@
     "react",
     "library"
   ],
-  "repository": "github:rnglnd/generator-webpack-library-starter",
+  "repository": "github:rnglnd/generator-react-library-starter",
   "scripts": {
     "test": "jest",
     "prepublish": "nsp check"

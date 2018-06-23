@@ -3,7 +3,7 @@ const path = require('path');
 const assert = require('yeoman-assert');
 const helpers = require('yeoman-test');
 
-describe('generator-webpack-library-starter:app', function () {
+describe('generator-react-library-starter:app', function () {
   beforeEach(() => {
     return helpers.run(path.join(__dirname, '../app'))
       .withPrompts({name: 'random-javascript-lib'})

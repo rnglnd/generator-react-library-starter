@@ -1,4 +1,4 @@
-# generator-webpack-library-starter
+# generator-react-library-starter
 
 ## Getting started
 
@@ -11,7 +11,7 @@ $ npm i -g generator-react-library-starter
 
 $ mkdir my-new-project && cd my-new-project
 
-$ yo webpack-react-starter
+$ yo react-library-starter
 ```
 
 ## What do you get?
